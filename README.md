@@ -12,4 +12,4 @@ essential tool for anyone looking to improve their productivity, manage their wo
 achieve their goals efficiently.</p>
 
 <h3> Done By :</h3>
-<p> Muhammed Shan   <b> Navaneeth Sudevan <b> Vishnu V</p>
+<p> Muhammed Shan   <br> Navaneeth Sudevan <br> Vishnu V</p>
