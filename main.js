@@ -18,5 +18,5 @@ window.addEventListener('load',() => {
         task_el.appendChild(task_content_el);
         list_el.appendChild(task_el);
 
-    })
-})
+    });
+});
