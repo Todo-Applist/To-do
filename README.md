@@ -10,3 +10,6 @@ members. The application is intuitive and user-friendly, with a clean and simple
 makes it easy to use for beginners and experienced users alike. The to-do list application is an
 essential tool for anyone looking to improve their productivity, manage their workload, and
 achieve their goals efficiently.</p>
+
+<h3> Done By :</h3>
+<p> Muhammed Shan   <b> Navaneeth Sudevan <b> Vishnu V</p>
